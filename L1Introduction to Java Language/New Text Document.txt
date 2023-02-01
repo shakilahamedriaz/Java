@@ -1,0 +1,4 @@
+Compilation : source code --> compiler(jdk)---->byt(code.class) convert from
+
+
+Execution : Byte --> jvm -->native code
