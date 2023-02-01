@@ -1,0 +1,10 @@
+conditional statements are :
+
+if,else
+else if
+
+switch
+
+break
+
+continue etc
