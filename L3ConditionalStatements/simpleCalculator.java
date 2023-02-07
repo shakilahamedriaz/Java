@@ -10,7 +10,7 @@ public class simpleCalculator {
         int b=sc.nextInt();
         int result;
         char operator;
-        operator=sc.next().charAt(0);
+        operator=sc.next().charAt(0);    //use for inupt character 
         
         switch(operator){
                        
