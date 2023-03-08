@@ -27,7 +27,7 @@ public class bInh {
         EqualaterTriangle et = new EqualaterTriangle();
         et.area(4, 6);  // Pass length and height as parameters
 
-        Tringle t = new Tringle();
+        Tringle t = new Tringle(); //
         t.area(3, 5);   // Pass length and height as parameters
 
         
