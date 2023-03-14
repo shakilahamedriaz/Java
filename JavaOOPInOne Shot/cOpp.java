@@ -21,7 +21,8 @@ class Student{
 public class cOpp {
     public static void main(String[] args){
       
-        //Object
+        //ObjecT
+        
         Student s1 = new Student("Riaz", 48); // new= create location on heap, student= function called constructor,
         
         s1.printInfo();
