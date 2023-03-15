@@ -28,5 +28,14 @@ public class aclass_object {
        //calling method or calling funcion.
        pen1.write();
        pen1.printColor();
+
+       //a new object in the pen class
+       //we can create diffrent object in a same class
+       pen pen2=new pen();  //new object under the pen(class).
+
+       pen2.color= "black";
+       pen2.type= "Ball Point";
+
+       pen2.printColor();
     }
 }
