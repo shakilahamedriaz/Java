@@ -18,7 +18,7 @@ class Student{
     }
 }
 
-public class firstPoly {
+public class polym {
 
     public static void main(String[] args){
         Student s1= new Student();

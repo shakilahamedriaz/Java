@@ -24,7 +24,7 @@ public class aclass_object {
         Student s1=new Student(); //the way to create new object;
         s1.name= "Shakil Ahamed Riaz";
         s1.department= "Software Engineering";
-        s1.id= "221-35-995";
+        s1.id= "221-35-";
         s1.age=22;
 
       //calling the method or like calling function.
